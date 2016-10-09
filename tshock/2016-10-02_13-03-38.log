@@ -1,0 +1,63 @@
+2016-10-02 13:03:38 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2016-10-02 13:03:39 - TextLog: INFO: TShock 4.3.18.0 (Yoraiz0r R0cks) now running.
+2016-10-02 13:03:39 - TShock: INFO: AutoSave Enabled
+2016-10-02 13:03:39 - TShock: INFO: Backups Disabled
+2016-10-02 13:03:39 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2016-10-02 13:04:02 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-10-02 13:04:03 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'default' group joined. (1/8)
+2016-10-02 13:04:03 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-10-02 13:05:58 - Utils: INFO: Server executed: /group addperm default tshock.ignore.removetile.
+2016-10-02 13:06:36 - Utils: INFO: Server executed: /group addperm default tshock.ignore.placetile.
+2016-10-02 13:06:49 - Utils: INFO: Server executed: /group addperm default tshock.ignore.liquid.
+2016-10-02 13:06:58 - Utils: INFO: Server executed: /group addperm default tshock.ignore.paint.
+2016-10-02 13:07:12 - Utils: INFO: Server executed: /group addperm default tshock.ignore.itemstack.
+2016-10-02 13:18:20 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-10-02 13:18:20 - TextLog: INFO: MysticalStorm disconnected.
+2016-10-02 13:18:20 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-02 13:18:22 - Utils: INFO: Broadcast: World saved.
+2016-10-02 13:18:22 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-10-02 13:18:25 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-10-02 13:18:26 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'default' group joined. (1/8)
+2016-10-02 13:18:26 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-10-02 13:28:02 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-02 13:52:03 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-02 14:16:03 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-02 14:40:03 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-02 14:49:48 - TextLog: ERROR: UpdateManager Exception: System.Net.WebException: The request timed out
+  at System.Net.HttpWebRequest.EndGetResponse (System.IAsyncResult asyncResult) [0x00052] in <affe4060066c42de8cdd6027cdb92b56>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x0000e] in <affe4060066c42de8cdd6027cdb92b56>:0 
+  at TShockAPI.Utils.GetResponseNoException (System.Net.HttpWebRequest req) [0x00000] in <f5c40f9c44164213a841e0c8a63eff41>:0 
+2016-10-02 14:51:41 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-10-02 14:51:41 - TextLog: INFO: MysticalStorm disconnected.
+2016-10-02 14:51:41 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-02 14:51:47 - Utils: INFO: Broadcast: World saved.
+2016-10-02 14:51:47 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-10-02 14:53:59 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-10-02 14:54:08 - TextLog: ERROR: StatTracker Exception: System.Net.WebException: The request timed out
+  at System.Net.HttpWebRequest.EndGetResponse (System.IAsyncResult asyncResult) [0x00052] in <affe4060066c42de8cdd6027cdb92b56>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x0000e] in <affe4060066c42de8cdd6027cdb92b56>:0 
+  at TShockAPI.Utils.GetResponseNoException (System.Net.HttpWebRequest req) [0x00000] in <f5c40f9c44164213a841e0c8a63eff41>:0 
+2016-10-02 14:54:23 - TextLog: INFO: MysticalStorm disconnected.
+2016-10-02 14:55:29 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-10-02 14:55:30 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'default' group joined. (1/8)
+2016-10-02 14:55:30 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-10-02 14:56:03 - Utils: INFO: Server executed: /save.
+2016-10-02 14:56:03 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-02 14:56:08 - Utils: INFO: Broadcast: World saved.
+2016-10-02 14:56:08 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-10-02 15:04:18 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-02 15:25:01 - TextLog: INFO: Player MysticalStorm has been disabled for Reached projectile update threshold..
+2016-10-02 15:28:18 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-02 15:47:39 - Utils: INFO: Server executed: /group addperm default tshock.world.time.dropmeteor.
+2016-10-02 15:48:41 - Utils: INFO: Server executed: /exit.
+2016-10-02 15:48:41 - Utils: INFO: Kicked MysticalStorm for : 'Server shutting down!'
+2016-10-02 15:48:41 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-10-02 15:48:41 - TextLog: INFO: MysticalStorm disconnected.
+2016-10-02 15:48:41 - Utils: INFO: Broadcast: MysticalStorm was force kicked for 'server shutting down!'
+2016-10-02 15:48:41 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-02 15:48:47 - Utils: INFO: Broadcast: World saved.
+2016-10-02 15:48:47 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-10-02 15:48:47 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-02 15:48:53 - Utils: INFO: Broadcast: World saved.
+2016-10-02 15:48:53 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-10-02 15:48:53 - Utils: INFO: Broadcast: Server shutting down!

@@ -1,0 +1,17 @@
+2016-10-01 12:28:21 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2016-10-01 12:28:21 - TextLog: INFO: TShock 4.3.18.0 (Yoraiz0r R0cks) now running.
+2016-10-01 12:28:22 - TShock: INFO: AutoSave Enabled
+2016-10-01 12:28:22 - TShock: INFO: Backups Disabled
+2016-10-01 12:28:22 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2016-10-01 12:29:04 - Utils: INFO: Server executed: /group addperm default tshcok.ignore.damage.
+2016-10-01 12:29:48 - Utils: INFO: Server executed: /group addperm default tshock.ignore.removetile.
+2016-10-01 12:31:04 - Utils: INFO: Server executed: /group addperm default tshock.npc.spawnboss.
+2016-10-01 12:31:45 - Utils: INFO: Server executed: /group addperm default tshock.npc.summonboss.
+2016-10-01 12:32:09 - Utils: INFO: Server executed: /group addperm default tshock.npc.startinvasion.
+2016-10-01 12:32:26 - Utils: INFO: Server executed: /reload.
+2016-10-01 12:32:30 - Utils: INFO: Server executed: /reload.
+2016-10-01 12:32:38 - Utils: INFO: Server executed: /exit.
+2016-10-01 12:32:38 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-01 12:32:40 - Utils: INFO: Broadcast: World saved.
+2016-10-01 12:32:40 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-10-01 12:32:40 - Utils: INFO: Broadcast: Server shutting down!

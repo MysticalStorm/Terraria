@@ -1,0 +1,42 @@
+2016-09-26 18:18:57 - TextLog: INFO: TShock 4.3.18.0 (Yoraiz0r R0cks) now running.
+2016-09-26 18:18:57 - TShock: INFO: AutoSave Enabled
+2016-09-26 18:18:57 - TShock: INFO: Backups Disabled
+2016-09-26 18:18:57 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2016-09-26 18:19:27 - TextLog: INFO: go (176.107.218.239) from 'guest' group joined. (1/8)
+2016-09-26 18:19:27 - Utils: INFO: Broadcast: go has joined.
+2016-09-26 18:19:34 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'guest' group joined. (2/8)
+2016-09-26 18:19:34 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-09-26 18:23:34 - Utils: INFO: go tried to execute /spawn.
+2016-09-26 18:34:36 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-26 18:56:39 - GetDataHandlers: ERROR: System.NullReferenceException: Object reference not set to an instance of an object
+  at TShockAPI.GetDataHandlers.HandlePlayerUpdate (TShockAPI.GetDataHandlerArgs args) [0x0058e] in <f5c40f9c44164213a841e0c8a63eff41>:0 
+  at TShockAPI.GetDataHandlers.HandlerGetData (PacketTypes type, TShockAPI.TSPlayer player, System.IO.MemoryStream data) [0x0001a] in <f5c40f9c44164213a841e0c8a63eff41>:0 
+2016-09-26 18:58:36 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-26 19:22:36 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-26 19:25:17 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-09-26 19:25:17 - TextLog: INFO: MysticalStorm disconnected.
+2016-09-26 19:30:53 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'guest' group joined. (2/8)
+2016-09-26 19:30:53 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-09-26 19:33:03 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-09-26 19:33:03 - TextLog: INFO: MysticalStorm disconnected.
+2016-09-26 19:33:11 - Utils: INFO: Broadcast: go has left.
+2016-09-26 19:33:11 - TextLog: INFO: go disconnected.
+2016-09-26 19:33:11 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-26 19:33:13 - Utils: INFO: Broadcast: World saved.
+2016-09-26 19:33:13 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/KiV.wld)
+2016-09-26 19:35:16 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'guest' group joined. (1/8)
+2016-09-26 19:35:16 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-09-26 19:35:38 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-09-26 19:35:38 - TextLog: INFO: MysticalStorm disconnected.
+2016-09-26 19:35:38 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-26 19:35:40 - Utils: INFO: Broadcast: World saved.
+2016-09-26 19:35:40 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/KiV.wld)
+2016-09-26 19:45:25 - Utils: INFO: Server executed: /save.
+2016-09-26 19:45:25 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-26 19:45:26 - Utils: INFO: Broadcast: World saved.
+2016-09-26 19:45:26 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/KiV.wld)
+2016-09-26 19:45:32 - Utils: INFO: Server executed: /exit.
+2016-09-26 19:45:32 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-26 19:45:34 - Utils: INFO: Broadcast: World saved.
+2016-09-26 19:45:34 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/KiV.wld)
+2016-09-26 19:45:34 - Utils: INFO: Broadcast: Server shutting down!

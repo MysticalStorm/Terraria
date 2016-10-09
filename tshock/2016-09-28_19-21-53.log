@@ -1,0 +1,20 @@
+2016-09-28 19:21:53 - TextLog: INFO: TShock 4.3.18.0 (Yoraiz0r R0cks) now running.
+2016-09-28 19:21:53 - TShock: INFO: AutoSave Enabled
+2016-09-28 19:21:53 - TShock: INFO: Backups Disabled
+2016-09-28 19:21:53 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2016-09-28 19:27:18 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-28 19:30:30 - GetDataHandlers: INFO: 123 authenticated successfully as user 123.
+2016-09-28 19:30:32 - TextLog: INFO: 123 (188.163.104.53) from 'default' group joined. (1/8)
+2016-09-28 19:30:32 - Utils: INFO: Broadcast: 123 has joined.
+2016-09-28 19:31:16 - Utils: INFO: Server executed: /exit.
+2016-09-28 19:31:16 - Utils: INFO: Kicked 123 for : 'Server shutting down!'
+2016-09-28 19:31:16 - Utils: INFO: Broadcast: 123 was force kicked for 'server shutting down!'
+2016-09-28 19:31:16 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-28 19:31:16 - Utils: INFO: Broadcast: 123 has left.
+2016-09-28 19:31:16 - TextLog: INFO: 123 disconnected.
+2016-09-28 19:31:19 - Utils: INFO: Broadcast: World saved.
+2016-09-28 19:31:19 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/Mine.wld)
+2016-09-28 19:31:19 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-28 19:31:21 - Utils: INFO: Broadcast: World saved.
+2016-09-28 19:31:21 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/Mine.wld)
+2016-09-28 19:31:21 - Utils: INFO: Broadcast: Server shutting down!

@@ -1,0 +1,41 @@
+2016-09-28 19:13:41 - TextLog: INFO: TShock 4.3.18.0 (Yoraiz0r R0cks) now running.
+2016-09-28 19:13:41 - TShock: INFO: AutoSave Enabled
+2016-09-28 19:13:41 - TShock: INFO: Backups Disabled
+2016-09-28 19:13:41 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2016-09-28 19:14:33 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-09-28 19:14:35 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'default' group joined. (1/8)
+2016-09-28 19:14:35 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-09-28 19:14:48 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-09-28 19:14:48 - TextLog: INFO: MysticalStorm disconnected.
+2016-09-28 19:14:48 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-28 19:14:50 - Utils: INFO: Broadcast: World saved.
+2016-09-28 19:14:50 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/KiV.wld)
+2016-09-28 19:15:10 - TextLog: INFO: 123 (188.163.104.53) from 'guest' group joined. (1/8)
+2016-09-28 19:15:10 - Utils: INFO: Broadcast: 123 has joined.
+2016-09-28 19:15:27 - TextLog: INFO: 123 registered an account: "123".
+2016-09-28 19:15:36 - Utils: INFO: Broadcast: 123 has left.
+2016-09-28 19:15:36 - TextLog: INFO: 123 disconnected.
+2016-09-28 19:15:36 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-28 19:15:38 - Utils: INFO: Broadcast: World saved.
+2016-09-28 19:15:38 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/KiV.wld)
+2016-09-28 19:15:45 - GetDataHandlers: INFO: 123 authenticated successfully as user 123.
+2016-09-28 19:15:47 - TextLog: INFO: 123 (188.163.104.53) from 'default' group joined. (1/8)
+2016-09-28 19:15:47 - Utils: INFO: Broadcast: 123 has joined.
+2016-09-28 19:16:07 - Utils: INFO: Broadcast: 123 has left.
+2016-09-28 19:16:07 - TextLog: INFO: 123 disconnected.
+2016-09-28 19:16:07 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-28 19:16:08 - Utils: INFO: Broadcast: World saved.
+2016-09-28 19:16:08 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/KiV.wld)
+2016-09-28 19:16:39 - GetDataHandlers: INFO: 123 authenticated successfully as user 123.
+2016-09-28 19:16:40 - TextLog: INFO: 123 (188.163.104.53) from 'default' group joined. (1/8)
+2016-09-28 19:16:40 - Utils: INFO: Broadcast: 123 has joined.
+2016-09-28 19:16:47 - Utils: INFO: Broadcast: 123 has left.
+2016-09-28 19:16:47 - TextLog: INFO: 123 disconnected.
+2016-09-28 19:16:47 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-28 19:16:49 - Utils: INFO: Broadcast: World saved.
+2016-09-28 19:16:49 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/KiV.wld)
+2016-09-28 19:17:14 - Utils: INFO: Server executed: /exit.
+2016-09-28 19:17:14 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-28 19:17:16 - Utils: INFO: Broadcast: World saved.
+2016-09-28 19:17:16 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/KiV.wld)
+2016-09-28 19:17:16 - Utils: INFO: Broadcast: Server shutting down!

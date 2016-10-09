@@ -1,0 +1,158 @@
+2016-09-28 19:53:06 - TextLog: INFO: TShock 4.3.18.0 (Yoraiz0r R0cks) now running.
+2016-09-28 19:53:06 - TShock: INFO: AutoSave Enabled
+2016-09-28 19:53:06 - TShock: INFO: Backups Disabled
+2016-09-28 19:53:06 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2016-09-28 19:53:51 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-09-28 19:53:52 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'default' group joined. (1/8)
+2016-09-28 19:53:52 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-09-28 19:54:53 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-09-28 19:54:53 - TextLog: INFO: MysticalStorm disconnected.
+2016-09-28 19:54:53 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-28 19:54:55 - Utils: INFO: Broadcast: World saved.
+2016-09-28 19:54:55 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-09-28 19:55:04 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-09-28 19:55:05 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'default' group joined. (1/8)
+2016-09-28 19:55:05 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-09-28 20:01:33 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-09-28 20:01:33 - TextLog: INFO: MysticalStorm disconnected.
+2016-09-28 20:01:33 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-28 20:01:35 - Utils: INFO: Broadcast: World saved.
+2016-09-28 20:01:35 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-09-29 06:19:54 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-09-29 06:19:57 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'default' group joined. (1/8)
+2016-09-29 06:19:57 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-09-29 06:22:02 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-09-29 06:22:02 - TextLog: INFO: MysticalStorm disconnected.
+2016-09-29 06:22:02 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-29 06:22:03 - Utils: INFO: Broadcast: World saved.
+2016-09-29 06:22:03 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-09-29 06:22:08 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-09-29 06:22:10 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'default' group joined. (1/8)
+2016-09-29 06:22:10 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-09-29 06:22:39 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-09-29 06:22:39 - TextLog: INFO: MysticalStorm disconnected.
+2016-09-29 06:22:39 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-29 06:22:40 - Utils: INFO: Broadcast: World saved.
+2016-09-29 06:22:40 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-09-29 06:22:56 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-09-29 06:22:57 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'default' group joined. (1/8)
+2016-09-29 06:22:57 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-09-29 06:23:56 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-09-29 06:23:56 - TextLog: INFO: MysticalStorm disconnected.
+2016-09-29 06:23:56 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-29 06:23:57 - Utils: INFO: Broadcast: World saved.
+2016-09-29 06:23:57 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-09-29 06:26:22 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-09-29 06:26:23 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'default' group joined. (1/8)
+2016-09-29 06:26:23 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-09-29 06:31:45 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-09-29 06:31:45 - TextLog: INFO: MysticalStorm disconnected.
+2016-09-29 06:31:45 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-29 06:31:47 - Utils: INFO: Broadcast: World saved.
+2016-09-29 06:31:47 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-09-29 09:45:34 - TextLog: ERROR: UpdateManager Exception: System.Net.WebException: The request timed out
+  at System.Net.HttpWebRequest.EndGetResponse (System.IAsyncResult asyncResult) [0x00052] in <affe4060066c42de8cdd6027cdb92b56>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x0000e] in <affe4060066c42de8cdd6027cdb92b56>:0 
+  at TShockAPI.Utils.GetResponseNoException (System.Net.HttpWebRequest req) [0x00000] in <f5c40f9c44164213a841e0c8a63eff41>:0 
+2016-09-29 18:28:33 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-09-29 18:28:35 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'default' group joined. (1/8)
+2016-09-29 18:28:35 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-09-29 18:31:26 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-29 18:55:26 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-29 19:19:26 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-29 19:40:04 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-09-29 19:40:04 - TextLog: INFO: MysticalStorm disconnected.
+2016-09-29 19:40:04 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-29 19:40:06 - Utils: INFO: Broadcast: World saved.
+2016-09-29 19:40:06 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-09-30 17:03:01 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-09-30 17:03:02 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'default' group joined. (1/8)
+2016-09-30 17:03:02 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-09-30 17:03:50 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-09-30 17:03:50 - TextLog: INFO: MysticalStorm disconnected.
+2016-09-30 17:03:50 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-30 17:03:52 - Utils: INFO: Broadcast: World saved.
+2016-09-30 17:03:52 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-09-30 17:17:26 - TextLog: INFO: go (176.107.218.239) from 'guest' group joined. (1/8)
+2016-09-30 17:17:26 - Utils: INFO: Broadcast: go has joined.
+2016-09-30 17:19:58 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-30 17:20:32 - Utils: INFO: Broadcast: go has left.
+2016-09-30 17:20:32 - TextLog: INFO: go disconnected.
+2016-09-30 17:20:32 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-30 17:20:34 - Utils: INFO: Broadcast: World saved.
+2016-09-30 17:20:34 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-09-30 17:21:19 - TextLog: INFO: nun (176.107.218.239) from 'guest' group joined. (1/8)
+2016-09-30 17:21:19 - Utils: INFO: Broadcast: nun has joined.
+2016-09-30 17:21:34 - TextLog: INFO: nun registered an account: "nun".
+2016-09-30 17:21:40 - Utils: INFO: Broadcast: nun has left.
+2016-09-30 17:21:40 - TextLog: INFO: nun disconnected.
+2016-09-30 17:21:40 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-30 17:21:42 - Utils: INFO: Broadcast: World saved.
+2016-09-30 17:21:42 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-09-30 17:22:13 - GetDataHandlers: INFO: nun authenticated successfully as user nun.
+2016-09-30 17:22:14 - TextLog: INFO: nun (176.107.218.239) from 'default' group joined. (1/8)
+2016-09-30 17:22:14 - Utils: INFO: Broadcast: nun has joined.
+2016-09-30 17:22:59 - Utils: INFO: nun tried to execute /spawn.
+2016-09-30 17:24:59 - Utils: INFO: Broadcast: nun has left.
+2016-09-30 17:24:59 - TextLog: INFO: nun disconnected.
+2016-09-30 17:25:00 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-30 17:25:02 - Utils: INFO: Broadcast: World saved.
+2016-09-30 17:25:02 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-09-30 17:34:25 - TextLog: INFO: go (176.107.218.239) from 'guest' group joined. (1/8)
+2016-09-30 17:34:25 - Utils: INFO: Broadcast: go has joined.
+2016-09-30 17:34:46 - TextLog: INFO: go registered an account: "go".
+2016-09-30 17:34:55 - Utils: INFO: Broadcast: go has left.
+2016-09-30 17:34:55 - TextLog: INFO: go disconnected.
+2016-09-30 17:34:55 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-30 17:34:57 - Utils: INFO: Broadcast: World saved.
+2016-09-30 17:34:57 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-09-30 17:35:16 - GetDataHandlers: INFO: go authenticated successfully as user go.
+2016-09-30 17:35:17 - TextLog: INFO: go (176.107.218.239) from 'default' group joined. (1/8)
+2016-09-30 17:35:17 - Utils: INFO: Broadcast: go has joined.
+2016-09-30 17:35:28 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-09-30 17:35:29 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'default' group joined. (2/8)
+2016-09-30 17:35:29 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-09-30 17:54:15 - Utils: INFO: go tried to execute /SPAWN.
+2016-09-30 17:55:01 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-30 18:19:02 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-30 18:38:58 - Utils: INFO: Broadcast: go: [i/p42:3514][i:3509][i:3506][i/s16:5][i/s76:42][i/s48:8][i/s9:2350][i/s866:2][i/s4:188][i/s57:282]
+2016-09-30 18:40:11 - Utils: INFO: Broadcast: go: [i/p42:3514][i/p42:3514][i/p42:3514][i/p42:3514][i/p42:3514][i/p42:3514][i/p42:3514]!!!!!!
+2016-09-30 18:43:02 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-30 18:46:00 - Utils: INFO: Broadcast: go: [i/p60:3278][i/p60:3278][i/p60:3278]!!!!!!
+2016-09-30 18:57:24 - Utils: INFO: Broadcast: go: [i/p42:3514][i/p42:3514][i/p42:3514]
+2016-09-30 18:57:40 - TextLog: INFO: Player MysticalStorm has been disabled for Reached TileKill threshold..
+2016-09-30 19:07:02 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-30 19:31:02 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-30 19:34:12 - Utils: INFO: Broadcast: go: [i/p42:3514][i:1][i:3506][i/p49:3510][i/p60:3278][i/s52:8][i/s9:2350][i/s894:2][i/s13:5][i/s61:282][i/s12:28][i:689][i:687][i:688][i:285][i/p73:953][i:53][i/p62:393][i/p69:49][i/s31:51][i/s15:283][i/s88:40][i/s4:71]
+2016-09-30 19:34:42 - Utils: INFO: Broadcast: go: -_-
+2016-09-30 19:34:53 - Utils: INFO: Broadcast: go: -_-
+2016-09-30 19:35:01 - Utils: INFO: Broadcast: go: ^_^
+2016-09-30 19:35:21 - Utils: INFO: Broadcast: go: -_- ^_^
+2016-09-30 19:35:56 - Utils: INFO: Broadcast: go: [i/p42:3514] óêåï
+2016-09-30 19:36:26 - Utils: INFO: Broadcast: go: [i/p60:3278]\
+2016-09-30 19:37:33 - Utils: INFO: Broadcast: go: ETO
+2016-09-30 19:42:01 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-09-30 19:42:01 - TextLog: INFO: MysticalStorm disconnected.
+2016-09-30 19:53:57 - Utils: INFO: go executed: /HELP.
+2016-09-30 19:55:02 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-30 19:55:20 - Utils: INFO: Broadcast: go has left.
+2016-09-30 19:55:20 - TextLog: INFO: go disconnected.
+2016-09-30 19:55:20 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-09-30 19:55:22 - Utils: INFO: Broadcast: World saved.
+2016-09-30 19:55:22 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-10-01 09:43:46 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'guest' group joined. (1/8)
+2016-10-01 09:43:46 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-10-01 09:43:54 - Commands: WARNING: 188.163.104.53 failed to authenticate as user: MysticalStorm.
+2016-10-01 09:43:58 - Commands: WARNING: 188.163.104.53 failed to authenticate as user: MysticalStorm.
+2016-10-01 09:58:13 - Utils: INFO: Server executed: /exit.
+2016-10-01 09:58:13 - Utils: INFO: Kicked MysticalStorm for : 'Server shutting down!'
+2016-10-01 09:58:13 - Utils: INFO: Broadcast: MysticalStorm was force kicked for 'server shutting down!'
+2016-10-01 09:58:13 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-01 09:58:13 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-10-01 09:58:13 - TextLog: INFO: MysticalStorm disconnected.
+2016-10-01 09:58:18 - Utils: INFO: Broadcast: World saved.
+2016-10-01 09:58:18 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-10-01 09:58:18 - Utils: INFO: Broadcast: Server shutting down!
+2016-10-01 09:58:18 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-01 09:58:20 - Utils: INFO: Broadcast: World saved.
+2016-10-01 09:58:20 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)

@@ -1,0 +1,42 @@
+2016-10-09 09:04:37 - TextLog: INFO: TShock 4.3.19.0 (Yoraiz0r R0cks) now running.
+2016-10-09 09:04:37 - TShock: INFO: AutoSave Enabled
+2016-10-09 09:04:37 - TShock: INFO: Backups Disabled
+2016-10-09 09:04:37 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2016-10-09 09:05:06 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-10-09 09:05:08 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'vladmin' group joined. (1/8)
+2016-10-09 09:05:08 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-10-09 09:06:18 - TextLog: INFO: ïðï (176.107.218.254) from 'guest' group joined. (2/8)
+2016-10-09 09:06:18 - Utils: INFO: Broadcast: ïðï has joined.
+2016-10-09 09:06:31 - Utils: INFO: Broadcast: ïðï has left.
+2016-10-09 09:06:31 - TextLog: INFO: ïðï disconnected.
+2016-10-09 09:10:47 - GetDataHandlers: INFO: go authenticated successfully as user go.
+2016-10-09 09:10:48 - TextLog: INFO: go (176.107.218.254) from 'default' group joined. (2/8)
+2016-10-09 09:10:48 - Utils: INFO: Broadcast: go has joined.
+2016-10-09 09:20:09 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-09 09:22:01 - Utils: INFO: MysticalStorm summoned the Queen Bee!
+2016-10-09 09:31:56 - Utils: INFO: MysticalStorm summoned the Queen Bee!
+2016-10-09 09:33:42 - TextLog: INFO: Player MysticalStorm has been disabled for Reached projectile update threshold..
+2016-10-09 09:44:10 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-09 09:53:37 - Utils: INFO: Broadcast: go: FFFFFFFFF
+2016-10-09 09:53:44 - Utils: INFO: Broadcast: go: ÇÙÀ
+2016-10-09 10:08:10 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-09 10:27:43 - Utils: INFO: Broadcast: go: [i/s2:303][i:296][i:295][i:2329][i:302][i:292]
+2016-10-09 10:32:10 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-09 10:56:10 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-09 11:12:21 - Utils: INFO: Broadcast: go: [i/s6:188][i:295][i/s2:305][i:301][i:2351][i/s4:303][i/s2:2329][i:2323][i/s17:226]
+2016-10-09 11:18:45 - Utils: INFO: Broadcast: go: [i/s17:226][i:2323][i/s2:2329][i/s4:303][i/s3:292][i:2351][i:301][i/s3:289][i/s2:305][i:295][i:2997][i/s11:188]
+2016-10-09 11:20:51 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-09 11:33:16 - Utils: INFO: Broadcast: go has left.
+2016-10-09 11:33:16 - TextLog: INFO: go disconnected.
+2016-10-09 11:39:52 - Utils: INFO: Server executed: /exit.
+2016-10-09 11:39:52 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-10-09 11:39:52 - TextLog: INFO: MysticalStorm disconnected.
+2016-10-09 11:39:52 - Utils: INFO: Kicked MysticalStorm for : 'Server shutting down!'
+2016-10-09 11:39:52 - Utils: INFO: Broadcast: MysticalStorm was force kicked for 'server shutting down!'
+2016-10-09 11:39:52 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-09 11:39:58 - Utils: INFO: Broadcast: World saved.
+2016-10-09 11:39:58 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-10-09 11:39:58 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-09 11:40:04 - Utils: INFO: Broadcast: World saved.
+2016-10-09 11:40:04 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-10-09 11:40:04 - Utils: INFO: Broadcast: Server shutting down!

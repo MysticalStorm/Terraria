@@ -1,0 +1,26 @@
+2016-10-01 09:58:24 - TextLog: INFO: TShock 4.3.18.0 (Yoraiz0r R0cks) now running.
+2016-10-01 09:58:24 - TShock: INFO: AutoSave Enabled
+2016-10-01 09:58:24 - TShock: INFO: Backups Disabled
+2016-10-01 09:58:24 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2016-10-01 09:59:06 - Utils: INFO: Kicked MysticalStorm for : 'Invalid user account password.'
+2016-10-01 09:59:06 - TextLog: INFO: MysticalStorm disconnected.
+2016-10-01 09:59:16 - Utils: INFO: Kicked MysticalStorm for : 'Invalid user account password.'
+2016-10-01 09:59:16 - TextLog: INFO: MysticalStorm disconnected.
+2016-10-01 09:59:28 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-10-01 09:59:29 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'default' group joined. (1/8)
+2016-10-01 09:59:29 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-10-01 10:08:31 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-01 10:10:38 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-01 10:10:42 - Utils: INFO: Broadcast: World saved.
+2016-10-01 10:10:42 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-10-01 10:32:32 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-01 10:56:32 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-01 11:20:32 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-01 11:44:32 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-01 11:48:10 - Utils: INFO: Server executed: /group help.
+2016-10-01 11:48:46 - Utils: INFO: Server executed: /group help 2.
+2016-10-01 11:49:10 - Utils: INFO: Server executed: /group list.
+2016-10-01 11:49:59 - Utils: INFO: Server executed: /group listperm default.
+2016-10-01 11:55:58 - Utils: INFO: Server executed: /group help.
+2016-10-01 11:56:23 - Utils: INFO: Server executed: /group addperm tshock.ignore.removetile.
+2016-10-01 11:59:15 - Utils: INFO: Server executed: /group addperm default tshock.removetile.

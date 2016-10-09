@@ -1,0 +1,45 @@
+2016-10-07 18:18:51 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2016-10-07 18:18:51 - TextLog: INFO: TShock 4.3.19.0 (Yoraiz0r R0cks) now running.
+2016-10-07 18:18:51 - TShock: INFO: AutoSave Enabled
+2016-10-07 18:18:51 - TShock: INFO: Backups Disabled
+2016-10-07 18:18:51 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2016-10-07 18:19:26 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-10-07 18:19:27 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'vladmin' group joined. (1/8)
+2016-10-07 18:19:27 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-10-07 18:23:30 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-07 18:47:30 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-07 19:11:30 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-07 19:31:45 - Utils: INFO: MysticalStorm tried to execute /dropmeteor.
+2016-10-07 19:32:03 - Utils: INFO: MysticalStorm tried to execute /dropmeteor.
+2016-10-07 19:32:58 - Utils: INFO: Server executed: /help.
+2016-10-07 19:33:12 - Utils: INFO: Server executed: /group addperm.
+2016-10-07 19:33:28 - Utils: INFO: Server executed: /group help.
+2016-10-07 19:33:37 - Utils: INFO: Server executed: /group help 2.
+2016-10-07 19:33:46 - Utils: INFO: Server executed: /group list.
+2016-10-07 19:35:15 - Utils: INFO: Server executed: /group addperm vladmin tshock.world.time.dropmeteor.
+2016-10-07 19:35:24 - Utils: INFO: MysticalStorm executed: /dropmeteor.
+2016-10-07 19:35:30 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-07 19:59:30 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-07 20:23:31 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-07 20:31:11 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-10-07 20:31:11 - TextLog: INFO: MysticalStorm disconnected.
+2016-10-07 20:31:11 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-07 20:31:12 - Utils: INFO: Broadcast: World saved.
+2016-10-07 20:31:12 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-10-08 10:43:51 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-10-08 10:43:52 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'vladmin' group joined. (1/8)
+2016-10-08 10:43:52 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-10-08 11:00:07 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-08 11:24:07 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-08 11:48:18 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-08 12:12:16 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-08 12:18:01 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-10-08 12:18:01 - TextLog: INFO: MysticalStorm disconnected.
+2016-10-08 12:18:01 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-08 12:18:03 - Utils: INFO: Broadcast: World saved.
+2016-10-08 12:18:03 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-10-09 09:03:05 - Utils: INFO: Server executed: /exit.
+2016-10-09 09:03:05 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-09 09:03:06 - Utils: INFO: Broadcast: World saved.
+2016-10-09 09:03:06 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-10-09 09:03:06 - Utils: INFO: Broadcast: Server shutting down!

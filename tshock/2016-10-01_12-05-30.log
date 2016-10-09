@@ -1,0 +1,21 @@
+2016-10-01 12:05:30 - TextLog: INFO: TShock 4.3.18.0 (Yoraiz0r R0cks) now running.
+2016-10-01 12:05:30 - TShock: INFO: AutoSave Enabled
+2016-10-01 12:05:30 - TShock: INFO: Backups Disabled
+2016-10-01 12:05:30 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2016-10-01 12:06:08 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-10-01 12:06:08 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'default' group joined. (1/8)
+2016-10-01 12:06:08 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-10-01 12:11:29 - Utils: INFO: Server executed: /group add default tshock.movenpc.
+2016-10-01 12:11:58 - Utils: INFO: Server executed: /group addperm default tshock.movenpc.
+2016-10-01 12:12:00 - Utils: INFO: Server executed: /exit.
+2016-10-01 12:12:00 - Utils: INFO: Kicked MysticalStorm for : 'Server shutting down!'
+2016-10-01 12:12:00 - Utils: INFO: Broadcast: MysticalStorm was force kicked for 'server shutting down!'
+2016-10-01 12:12:00 - Utils: INFO: Broadcast: MysticalStorm has left.
+2016-10-01 12:12:00 - TextLog: INFO: MysticalStorm disconnected.
+2016-10-01 12:12:00 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-01 12:12:03 - Utils: INFO: Broadcast: World saved.
+2016-10-01 12:12:03 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-10-01 12:12:03 - Utils: INFO: Broadcast: Saving world. Momentary lag might result from this.
+2016-10-01 12:12:06 - Utils: INFO: Broadcast: World saved.
+2016-10-01 12:12:06 - SaveManager: INFO: World saved at (/root/My Games/Terraria/Worlds/VW.wld)
+2016-10-01 12:12:06 - Utils: INFO: Broadcast: Server shutting down!

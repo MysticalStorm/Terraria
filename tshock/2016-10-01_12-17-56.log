@@ -1,0 +1,18 @@
+2016-10-01 12:17:57 - TextLog: INFO: TShock 4.3.18.0 (Yoraiz0r R0cks) now running.
+2016-10-01 12:17:57 - TShock: INFO: AutoSave Enabled
+2016-10-01 12:17:57 - TShock: INFO: Backups Disabled
+2016-10-01 12:17:57 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2016-10-01 12:18:21 - GetDataHandlers: INFO: MysticalStorm authenticated successfully as user MysticalStorm.
+2016-10-01 12:18:21 - TextLog: INFO: MysticalStorm (188.163.104.53) from 'default' group joined. (1/8)
+2016-10-01 12:18:21 - Utils: INFO: Broadcast: MysticalStorm has joined.
+2016-10-01 12:18:58 - Utils: INFO: Server executed: /group help.
+2016-10-01 12:19:08 - Utils: INFO: Server executed: /group help 2.
+2016-10-01 12:19:28 - Utils: INFO: Server executed: /group default 1.
+2016-10-01 12:19:41 - Utils: INFO: Server executed: /group listperm default 1.
+2016-10-01 12:20:15 - Utils: INFO: Server executed: /group listperm guest.
+2016-10-01 12:20:37 - Utils: INFO: Server executed: /help.
+2016-10-01 12:20:44 - Utils: INFO: Server executed: /userinfo.
+2016-10-01 12:21:08 - Utils: INFO: Server executed: /userinfo MysticalStorm.
+2016-10-01 12:21:20 - Utils: INFO: Server executed: /userinfo go.
+2016-10-01 12:26:21 - Utils: INFO: Server executed: /group listperm default.
+2016-10-01 12:27:02 - Utils: INFO: Server executed: /group addperm default tshock.world.movenpc.
