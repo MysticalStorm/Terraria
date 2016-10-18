@@ -28,3 +28,8 @@
 [10/09/16 18:54:11] [Server API] Verbose: 	OS: Unix 3.2.0.49 (64bit: True)
 [10/09/16 18:54:11] [Server API] Verbose: 	Mono: True
 [10/09/16 18:54:12] [Server API] Info: Plugin TShock v4.3.19.0 (by The TShock Team) initiated.
+[10/18/16 07:55:16] [Server API] Verbose: TerrariaApi - Server v1.25.0.0 started.
+[10/18/16 07:55:16] [Server API] Verbose: 	Command line: /root/t1.3.3.3/Terraria/TerrariaServer.exe
+[10/18/16 07:55:16] [Server API] Verbose: 	OS: Unix 3.2.0.49 (64bit: True)
+[10/18/16 07:55:16] [Server API] Verbose: 	Mono: True
+[10/18/16 07:55:17] [Server API] Info: Plugin TShock v4.3.19.0 (by The TShock Team) initiated.
