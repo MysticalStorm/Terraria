@@ -1,0 +1,29 @@
+2016-10-09 18:54:11 - TShock: INFO: TShock was improperly shut down. Please use the exit command in the future to prevent this.
+2016-10-09 18:54:11 - TextLog: INFO: TShock 4.3.19.0 (Yoraiz0r R0cks) now running.
+2016-10-09 18:54:12 - TShock: INFO: AutoSave Enabled
+2016-10-09 18:54:12 - TShock: INFO: Backups Disabled
+2016-10-09 18:54:12 - TShock: INFO: Welcome to TShock for Terraria. Initialization complete.
+2016-10-10 01:38:17 - TextLog: ERROR: UpdateManager Exception: System.Net.WebException: The request timed out
+  at System.Net.HttpWebRequest.EndGetResponse (System.IAsyncResult asyncResult) [0x00052] in <affe4060066c42de8cdd6027cdb92b56>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x0000e] in <affe4060066c42de8cdd6027cdb92b56>:0 
+  at TShockAPI.Utils.GetResponseNoException (System.Net.HttpWebRequest req) [0x00000] in <61fcd2cca6cc48e4af90b8aa7ee56719>:0 
+2016-10-11 11:42:47 - TextLog: ERROR: UpdateManager Exception: System.Net.WebException: The request timed out
+  at System.Net.HttpWebRequest.EndGetResponse (System.IAsyncResult asyncResult) [0x00052] in <affe4060066c42de8cdd6027cdb92b56>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x0000e] in <affe4060066c42de8cdd6027cdb92b56>:0 
+  at TShockAPI.Utils.GetResponseNoException (System.Net.HttpWebRequest req) [0x00000] in <61fcd2cca6cc48e4af90b8aa7ee56719>:0 
+2016-10-12 06:07:51 - TextLog: ERROR: UpdateManager Exception: System.Net.WebException: The request timed out
+  at System.Net.HttpWebRequest.EndGetResponse (System.IAsyncResult asyncResult) [0x00052] in <affe4060066c42de8cdd6027cdb92b56>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x0000e] in <affe4060066c42de8cdd6027cdb92b56>:0 
+  at TShockAPI.Utils.GetResponseNoException (System.Net.HttpWebRequest req) [0x00000] in <61fcd2cca6cc48e4af90b8aa7ee56719>:0 
+2016-10-13 04:27:05 - TextLog: ERROR: StatTracker Exception: System.Net.WebException: The request timed out
+  at System.Net.HttpWebRequest.EndGetResponse (System.IAsyncResult asyncResult) [0x00052] in <affe4060066c42de8cdd6027cdb92b56>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x0000e] in <affe4060066c42de8cdd6027cdb92b56>:0 
+  at TShockAPI.Utils.GetResponseNoException (System.Net.HttpWebRequest req) [0x00000] in <61fcd2cca6cc48e4af90b8aa7ee56719>:0 
+2016-10-16 11:04:32 - TextLog: ERROR: StatTracker Exception: System.Net.WebException: The request timed out
+  at System.Net.HttpWebRequest.EndGetResponse (System.IAsyncResult asyncResult) [0x00052] in <affe4060066c42de8cdd6027cdb92b56>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x0000e] in <affe4060066c42de8cdd6027cdb92b56>:0 
+  at TShockAPI.Utils.GetResponseNoException (System.Net.HttpWebRequest req) [0x00000] in <61fcd2cca6cc48e4af90b8aa7ee56719>:0 
+2016-10-16 22:05:54 - TextLog: ERROR: UpdateManager Exception: System.Net.WebException: The request timed out
+  at System.Net.HttpWebRequest.EndGetResponse (System.IAsyncResult asyncResult) [0x00052] in <affe4060066c42de8cdd6027cdb92b56>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x0000e] in <affe4060066c42de8cdd6027cdb92b56>:0 
+  at TShockAPI.Utils.GetResponseNoException (System.Net.HttpWebRequest req) [0x00000] in <61fcd2cca6cc48e4af90b8aa7ee56719>:0 
